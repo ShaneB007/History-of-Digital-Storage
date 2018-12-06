@@ -6,6 +6,7 @@ The purpose of this tutorial is to educate students on the evolution of digital 
 This tutorial is focused towards IT students looking to expand their knowledge of general computer history and current technologies.
 
 #### Tape Drives
+![alt text](https://1.cms.s81c.com/sites/default/files/2018-03-27/storage_tape-drive-ts2280.jpeg)
 In 1928 Fritz Pfleumer, a German engineer, invented the tape drive, a device that used reels of magnetic tape to store information within them. Tape drives served as one of the first technologies to use a magnetic material as long term data storage, and this idea served as the backbone for later computer storage advancements. Tape drives are still used today, mostly as long term storage because it can safley be stored for many years, while also being fairly cheap. Tape drive's main weakness is the slow rate that information can be read off of the tape, which is another reason it is favored for long term storage.
 (https://www.ironmountain.com/resources/general-articles/t/the-history-of-magnetic-tape-and-computing-a-65-year-old-marriage-continues-to-evolve)
 
@@ -18,9 +19,9 @@ Invented in 1967 by IBM, Floppy Disks served as mobile storage data that worked 
 (https://www.ibm.com/ibm/history/ibm100/us/en/icons/floppy/)
 
 #### Compact Disk (CD)
+The compact disk started as a joint venture between Sony and Phillips in 1979, and was being built to replace vinyl as the new poular format for music storage. Data is stored on CD using an optical transparent foil and then using a high powered laser to read information etched into the foil. CD's quickly passed vinyl as the go to format for listening to music, and before long they were also used as data storage under the format of CD-ROM. 
+(https://www.gizmodo.com.au/2012/08/the-history-of-the-compact-disc/)
 
-
-#### DVD
 
 
 #### Flash Memory
