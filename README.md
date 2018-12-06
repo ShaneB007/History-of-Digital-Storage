@@ -6,7 +6,7 @@ The purpose of this tutorial is to educate students on the evolution of digital 
 This tutorial is focused towards IT students looking to expand their knowledge of general computer history and current technologies.
 
 #### Tape Drives
-In 1928 Fritz Pfleumer, a German engineer, invented the tape drive, a device that used reels of magnetic tape to store information within them. Tape drives are still used today, mostly as long term storage because it can safley be stored for many years, while also being fairly cheap. Tape drive's main weakness is the slow rate that information can be read off of the tape, which is another reason it is favored for long term storage.
+In 1928 Fritz Pfleumer, a German engineer, invented the tape drive, a device that used reels of magnetic tape to store information within them. Tape drives served as one of the first technologies to use a magnetic material as long term data storage, and this idea served as the backbone for later computer storage advancements. Tape drives are still used today, mostly as long term storage because it can safley be stored for many years, while also being fairly cheap. Tape drive's main weakness is the slow rate that information can be read off of the tape, which is another reason it is favored for long term storage.
 (https://www.ironmountain.com/resources/general-articles/t/the-history-of-magnetic-tape-and-computing-a-65-year-old-marriage-continues-to-evolve)
 
 #### Hard Disk Drive (HDD)
@@ -14,7 +14,7 @@ Uses one or many roating platters coated with a magnetic material, along with a 
 (https://www.backblaze.com/blog/history-hard-drives/)
 
 #### Floppy Disk
-Invented in 1967 by IBM, Floppy Disks served as mobile storage data that worked off of smilar technologies as Hard Disk Drives
+Invented in 1967 by IBM, Floppy Disks served as mobile storage data that worked off of smilar technologies as Hard Disk Drives to store data, with the main difference being portablitly. At the time the project wasn't considered to be overly important, but it quickly took off as the defacto form of portable digital data. At first they were just naked mylon disks that would be put into a drive, and read from, but it was quickly found that the design was easily damaged. Then they developed a plastic sleeve for the disks, as well as a self contained cleaning technology, that further improved the reliablity of the disks. The biggest effect of floppy drives on the computing world, was the ability to share software between users, whereas before most users had to create their own software, even word processors. The floppy disk was an important factor for computers entering a more widespread use in bussiness, as well as consumer use in homes.
 (https://www.ibm.com/ibm/history/ibm100/us/en/icons/floppy/)
 
 #### Compact Disk (CD)
