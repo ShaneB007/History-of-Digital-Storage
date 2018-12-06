@@ -22,10 +22,9 @@ Invented in 1967 by IBM, Floppy Disks served as mobile storage data that worked 
 
 #### Compact Disk (CD)
 ![Tape Drive](https://www.reviewjournal.com/wp-content/uploads/2018/02/10083708_web1_thinkstockphotos-610960578.jpg)
-The compact disk started as a joint venture between Sony and Phillips in 1979, and was being built to replace vinyl as the new poular format for music storage. Data is stored on CD using an optical transparent foil and then using a high powered laser to read information etched into the foil. CD's quickly passed vinyl as the go to format for listening to music, and before long they were also used as data storage under the format of CD-ROM. 
+The compact disk started as a joint venture between Sony and Phillips in 1979, and was being built to replace vinyl as the new poular format for music storage. Data is stored on CD using an optical transparent foil and then using a high powered laser to read information etched into the foil. CD's quickly passed vinyl as the go to format for listening to music, and before long they were also used as data storage under the format of CD-ROM. CD-ROM's replaced floppy disks both in the bussiness world and consumer use, due to their ability to store more data, and cheap production costs. 
 (https://www.gizmodo.com.au/2012/08/the-history-of-the-compact-disc/)
 
-
-
-#### Flash Memory
+#### Flash Memory & Solid State Drives (SSD)
 ![Tape Drive](https://techguided.com/wp-content/uploads/2018/04/Best-SSD-for-Gaming.jpg)
+Flash memory uses non-volitile NAND memory to store data, and unlike hard drive disks, have no moving parts. Flash memory saw its first large scale consumer use with flash drives, also known as zip drives, for small scale mobile transport of digital data. Since flash memory has no moving parts, it could easily be moved around without fear of it breaking or losing data, while also being very small. Eventually SSDs were produced as an alternative to hard disk drives, with the advantages of faster read/write speeds, no moving parts, and a smaller and lighter form factor. Most SSDs use DRAM, a form of volitile memory to store their dataEarly on they were very expensive compared to HDDs and also generally offered smaller storage sizes.
