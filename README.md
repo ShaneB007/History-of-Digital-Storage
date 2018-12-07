@@ -16,7 +16,7 @@ Uses one or many rotating platters coated with a magnetic material, along with a
 (https://www.backblaze.com/blog/history-hard-drives/)
 
 #### Floppy Disk
-!Floppy Disk](https://www.silicon.co.uk/wp-content/uploads/2017/04/floppy-disks-684x513.jpg) 
+![Floppy Disk](https://www.silicon.co.uk/wp-content/uploads/2017/04/floppy-disks-684x513.jpg) 
 Invented in 1967 by IBM, Floppy Disks served as mobile storage data that worked off of similar technologies as Hard Disk Drives to store data, with the main difference being portability. At the time the project wasn't considered to be overly important, but it quickly took off as the defacto form of portable digital data. At first they were just naked mylon disks that would be put into a drive, and read from, but it was quickly found that the design was easily damaged. Then they developed a plastic sleeve for the disks, as well as a self contained cleaning technology, that further improved the reliability of the disks. The biggest effect of floppy drives on the computing world, was the ability to share software between users, whereas before most users had to create their own software, even word processors. The floppy disk was an important factor for computers entering a more widespread use in business, as well as consumer use in homes.
 (https://www.ibm.com/ibm/history/ibm100/us/en/icons/floppy/)
 
